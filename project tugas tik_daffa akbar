@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Website Segowclub</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</html>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>SEGOWCLUB</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#Home">Home</a></li>
+                    <li><a href="#About">About</a></li>
+                    <li><a href="#Instagram">Instagram</a></li>
+                    <li><a href="#Shop">Shop</a></li>
+                    <li><a href="#Login" class="tbl-biru">Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk Home -->
+        <section id="Home">
+            <img src="SEMOKGOWESCLUB.png"/>
+            <a href="https://www.semokgowesclub.com"></a>
+            <div class="kolom">
+                <p class="deskripsi">SEMOK GOWES CLUB</p>
+                <h2>YANG PENTING HEPI!</h2>
+                <p>FUN FUN FUN</p>
+            </div>
+        </section>         
+
+        <!-- untuk About -->
+        <section id="About">
+            <div class="tengah">
+                <p class="deskripsi"></p>
+                <h2></h2>
+            </div>
+
+
+            <div class="About-list"
+                <div class="About-member">
+                    <img src=""/>
+                    <p></p>
+                </div>
+                <div class="About-member">
+                    <img src=""/>
+                        <p></p>
+                    </div>
+                    <div class="About-member">
+                        <img src=""/>
+                            <p></p>
+                    </div>
+                    <div class="About-member">
+                        <img src=""/>
+                            <p></p>
+                    </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
